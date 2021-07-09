@@ -23,7 +23,7 @@
             <div class="small-box bg-info">
               <div class="inner">
                 <h3>Aplikasi PMB</h3>
-                <p>Aplikasi Pendaftaran Mahasiswa Baru - Bang Ambo University</p>
+                <p>Aplikasi Pendaftaran Mahasiswa Baru - STMIK Mardira Indonesia</p>
               </div>
               <div class="icon">
                 <i class="ion ion-bag"></i>

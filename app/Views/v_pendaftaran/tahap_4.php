@@ -3,7 +3,7 @@
 <?= $this->section('header') ?>
 <header id="header" class="fixed-top">
   <div class="container d-flex align-items-center">
-    <h1 class="logo mr-auto"><a href="#">Bang Ambo<span>University</span></a></h1>
+    <h1 class="logo mr-auto"><a href="#">STMIK <span>Mardira Indonesia</span></a></h1>
     <nav class="nav-menu d-none d-lg-block">
       <ul>
         <li class="active"><a href="#">Home</a></li>
