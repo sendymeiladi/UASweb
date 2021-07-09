@@ -1,7 +1,7 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="<?php echo base_url('dashboard'); ?>" class="brand-link">
-      <img src="/assets/adminlte3/dist/img/logo.jpg"
+      <img src="/assets/adminlte3/dist/img/mardira.jpg"
            alt="AdminLTE Logo"
            class="brand-image img-circle elevation-3"
            style="opacity: .8">

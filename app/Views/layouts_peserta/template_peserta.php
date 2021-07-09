@@ -40,15 +40,14 @@
   <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
     <div class="container d-flex">
       <div class="contact-info mr-auto">
-        <i class="icofont-envelope"></i> <a href="mailto:contact@example.com">pmb-online@ba-university.ac.id</a>
-        <i class="icofont-phone"></i> (021) 4450668, 4450669
+        <i class="icofont-envelope"></i> <a href="mailto:info@stmik-mi.ac.id">info@stmik-mi.ac.id</a>
+        <i class="icofont-phone"></i> (021) 5230382, 5230382
       </div>
       <div class="social-links">
-        <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
-        <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
-        <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
-        <a href="#" class="skype"><i class="icofont-skype"></i></a>
-        <a href="#" class="linkedin"><i class="icofont-linkedin"></i></i></a>
+        <a href="https://twitter.com/stmikmardira" class="twitter"><i class="icofont-twitter"></i></a>
+        <a href="https://www.facebook.com/stmik.mardira" class="facebook"><i class="icofont-facebook"></i></a>
+        <a href="https://www.instagram.com/stmikmardira" class="instagram"><i class="icofont-instagram"></i></a>
+        <a href="https://www.stmik-mi.ac.id/beta2/" class="website"><i class="icofont-web"></i></i></a>
       </div>
     </div>
   </div>
@@ -63,7 +62,7 @@
   <footer id="footer">
     <div class="container py-4">
       <div class="copyright">
-        <strong>Copyright &copy; <script>document.write(new Date().getFullYear());</script> <a href="#">Bang Ambo University</a>.</strong> All rights reserved.
+        <strong>Copyright &copy; <script>document.write(new Date().getFullYear());</script> <a href="#">STMIK Mardira Indonesia</a>.</strong> All rights reserved.
       </div>
       <div class="credits">
         <b>Version</b> 1.0.0

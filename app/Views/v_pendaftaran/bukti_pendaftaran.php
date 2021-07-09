@@ -3,15 +3,15 @@
 		<td width="100">
 			<center>
 				<!-- Lokasi logo kampus pada aplikasi app-pmb -->
-				<img src="http://localhost/app-pmb/public/assets/logo.png" alt="" width="100">
+				<img src="http://localhost/app-pmb/public/assets/mardira.png" alt="" width="100">
 			</center>
 		</td>
 		<td width="400">
 			<center>
 				<font size="3">PENDAFTARAN MAHASISWA BARU</font><br>
-				<font size="5"><b>BANG AMBO UNIVERSITY</b></font><br>
-				<font size="2">Menunggu Senja, Kab. Luka Lama, Sumatera Barat. Website: http://pmb-online.ba-university.ac.id</font><br>
-				<font size="1">Email: pmb-online@ba-university.ac.id Telp. Office: (021) 4450668, 4450669</font>
+				<font size="5"><b>STMIK Mardira Indonesia</b></font><br>
+				<font size="2">Jl. Soekarno-Hatta No.211 Leuwipanjang-Jawa Barat Website: https://www.stmik-mi.ac.id/beta2/</font><br>
+				<font size="1">Email: info@stmik-mi.ac.id Telp. Office: (021) 5230382, 5230382</font>
 			</center>
 		</td>
 	</tr>
